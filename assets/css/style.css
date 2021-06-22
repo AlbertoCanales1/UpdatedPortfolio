@@ -7,6 +7,10 @@
   body {
     background-color: #d9dcd6;
   }
+
+  .about-me{
+      color: white;
+  }
   
   .header {
     padding: 20px;
